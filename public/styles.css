@@ -1,0 +1,91 @@
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: sienna;
+    margin-top: 2em;
+    margin-bottom: 2
+    0px;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-transform: uppercase;
+    font-weight: bolder;
+}
+
+.movie-button {
+    color: rgb(255, 255, 255);
+    width: 10em;
+    border-radius: 5px;
+    box-shadow: silver;
+    background-color: sienna;
+    display: flex;
+    justify-content: center;
+    align-self: center;
+    border: solid sienna;
+}
+
+.header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 2em;
+    padding: 2em;
+}
+
+.logo {
+    margin: 2em;
+    padding: 2em;
+}
+
+.main-button {
+    color: rgb(255, 255, 255);
+    width: 9em;
+    border-radius: 5px;
+    box-shadow: silver;
+    background-color: sienna;
+    display: flex;
+    justify-content: center;
+    align-self: center;
+    border: solid sienna;
+    margin: 10px;
+    padding: 3px;
+    box-shadow: 5px 10px 20px #bbbbbb;
+}
+
+.card-div {
+    color: rgb(0, 0, 0);
+    margin: 2em;
+    width: 30em;
+    border-radius: 5px;
+    border: solid sienna;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 10px 10px 20px #cdcdcd;
+}
+
+.card-content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.card-body {
+        color: rgb(29, 29, 29);
+        width: 10em;
+        box-shadow: silver;
+        flex-direction: column;
+        display: flex;
+        justify-content: center;
+        align-self: center;
+        border: solid sienna;
+}
